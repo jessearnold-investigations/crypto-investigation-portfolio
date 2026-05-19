@@ -1,0 +1,30 @@
+dmm-bitcoin-hack/README.md
+This repository contains research and analysis related to the
+recent TD Bank AML enforcement action.
+
+The purpose of this analysis is to examine:
+- AML control failures
+- transaction monitoring weaknesses
+- suspicious activity escalation issues
+- operational risk factors
+## Key Observations
+
+- Weak escalation workflows appeared to contribute to risk exposure
+- Monitoring systems may have suffered from alert fatigue
+- Fragmented investigative processes can reduce effectiveness
+- AML staffing and operational culture were recurring themes
+## Investigative Relevance
+
+This case demonstrates the importance of:
+- strong transaction monitoring systems
+- effective SAR escalation procedures
+- consistent investigative documentation
+- operational coordination across compliance teams
+## Sources
+
+- DOJ Press Release
+- FinCEN Commentary
+- Public reporting and enforcement documentation## Disclaimer
+
+This analysis is based solely on publicly available information
+and is intended for educational and research purposes.
