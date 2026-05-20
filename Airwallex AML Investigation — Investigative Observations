@@ -1,0 +1,119 @@
+# Airwallex AML Investigation — Investigative Observations
+
+## Executive Summary
+
+This repository contains research and analysis related to the recent AML investigation and regulatory scrutiny involving fintech company Airwallex.
+
+The purpose of this analysis is to examine:
+
+- how regulators identify systemic AML weaknesses
+- transaction monitoring and escalation risks
+- operational scaling challenges in fintech
+- customer due diligence (CDD) concerns
+- the relationship between rapid growth and compliance maturity
+
+---
+
+# Investigative Question
+
+One of the most interesting aspects of this case is not simply the regulatory action itself, but rather:
+
+**How do investigators determine when suspicious activity reflects isolated compliance failures versus broader systemic weaknesses?**
+
+Public reporting suggests regulators focused not only on individual transactions, but on operational patterns that may have indicated weaknesses in monitoring and governance processes.
+
+---
+
+# Key Observations
+
+## 1. Growth And Compliance Maturity
+
+One of the recurring themes in public reporting appears to involve the relationship between rapid operational growth and compliance scalability.
+
+Fast-growing fintech companies often process:
+- large transaction volumes
+- cross-border payments
+- rapidly expanding customer bases
+- increasingly complex operational workflows
+
+These environments can create pressure on:
+- transaction monitoring systems
+- staffing resources
+- escalation procedures
+- customer due diligence controls
+
+---
+
+## 2. Transaction Monitoring And Alert Handling
+
+Public reporting suggests regulators examined the effectiveness of transaction monitoring controls and alert management workflows.
+
+This raises interesting investigative questions such as:
+- How are suspicious transaction patterns identified?
+- How are alerts escalated?
+- How are high-risk customers reviewed?
+- How are false positives distinguished from meaningful risk indicators?
+
+Operationally, ineffective escalation workflows can sometimes create hidden exposure over time even when monitoring systems exist.
+
+---
+
+## 3. Customer Due Diligence And Risk Classification
+
+Another detail that stood out in public reporting was the suggestion that certain customers may have presented themselves as lower-risk than they actually were.
+
+This highlights the importance of:
+- customer identity verification
+- behavioral monitoring
+- ongoing due diligence
+- dynamic risk scoring
+
+Modern AML investigations increasingly focus not just on onboarding controls, but on whether customer behavior changes over time in ways that indicate elevated risk.
+
+---
+
+## 4. Systemic Risk Versus Individual Incidents
+
+One of the most compelling investigative elements in cases like this is understanding how regulators identify patterns suggesting systemic operational weakness rather than isolated mistakes.
+
+This may involve analyzing:
+- repeated alert handling issues
+- documentation inconsistencies
+- governance breakdowns
+- delayed escalation procedures
+- transaction monitoring gaps
+
+The investigative challenge often appears to involve connecting multiple operational indicators into a broader picture of institutional risk exposure.
+
+---
+
+# Investigative Relevance
+
+This case demonstrates how modern AML investigations increasingly involve evaluating entire operational systems rather than simply identifying individual suspicious transactions.
+
+Key areas of investigative relevance include:
+
+- transaction monitoring effectiveness
+- operational scalability
+- alert escalation procedures
+- customer risk classification
+- governance and compliance culture
+
+Cases like this illustrate how financial crime risk often emerges through the interaction of:
+- technology
+- operational growth
+- human decision-making
+- evolving fraud tactics
+
+---
+
+# Sources
+
+## Reuters
+https://www.reuters.com/business/finance/australia-watchdog-orders-audit-fintech-airwallex-suspected-compliance-miss-2026-01-22/
+
+---
+
+# Disclaimer
+
+This analysis is based solely on publicly available information and is intended for educational and research purposes.
