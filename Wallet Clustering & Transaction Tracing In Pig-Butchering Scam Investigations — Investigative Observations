@@ -1,0 +1,158 @@
+# Wallet Clustering & Transaction Tracing In Pig-Butchering Scam Investigations — Investigative Observations
+
+## Executive Summary
+
+This repository contains research and analysis related to wallet clustering methodologies and transaction tracing techniques used in investigations involving pig-butchering cryptocurrency scams operating across Southeast Asia.
+
+The purpose of this analysis is to examine:
+
+- Wallet Clustering Methodologies  
+- Behavioral Transaction Analysis  
+- Multi-Hop Laundering Patterns  
+- Exchange Exposure Identification  
+- Operational Infrastructure Mapping  
+- Cross-Domain Financial Crime Investigations  
+
+Public reporting and blockchain analysis suggest investigators increasingly reconstruct broader fraud ecosystems by identifying repeated behavioral consistency across groups of wallets rather than relying on direct attribution alone.
+
+---
+
+# Background
+
+Pig-butchering scams are large-scale social engineering fraud operations in which victims are gradually manipulated into transferring increasing amounts of cryptocurrency into fraudulent investment platforms.
+
+Recent investigations involving scam compounds in Cambodia, Myanmar, Laos, and the Philippines suggest these operations frequently involve:
+- Organized Criminal Networks  
+- Human Trafficking  
+- Structured Scam Workflows  
+- Cryptocurrency Laundering Infrastructure  
+- Cross-Border Financial Movement  
+- Operational Coordination Across Multiple Jurisdictions  
+
+Blockchain investigations associated with these scams increasingly appear focused on identifying relationships between wallets through behavioral analysis and transaction tracing.
+
+---
+
+# Investigative Question
+
+One of the central investigative challenges in cryptocurrency fraud investigations involves determining:
+
+**How do investigators identify operational relationships between wallets without relying solely on direct attribution?**
+
+Public reporting and blockchain intelligence research suggest investigators often begin with only a limited number of known victim wallets and gradually expand outward by analyzing repeated transactional patterns.
+
+---
+
+# Key Observations
+
+## 1. Investigations Often Begin With Victim Deposit Wallets
+
+According to public reporting, investigators frequently begin with:
+- Victim-Reported Deposit Wallets  
+- Exchange Exposure Identified Through Subpoenas Or Freezes  
+- Wallets Shared Across Separate Victim Complaints  
+- Known Laundering Endpoints Linked To Scam Proceeds  
+
+These initial data points reportedly serve as anchors for broader clustering analysis.
+
+---
+
+## 2. Behavioral Analysis Appears Central To Wallet Clustering
+
+Public reporting and blockchain analysis suggest investigators analyze:
+- Multi-Hop Transaction Chains  
+- Timing Relationships Between Transfers  
+- Consolidation Behavior Into Collection Wallets  
+- Repeated Intermediary Wallet Usage  
+- Exposure To The Same Exchanges Or OTC Services  
+- Wallet Reuse Across Separate Scam Reports  
+
+Viewed individually, many transactions may appear operationally ordinary. Viewed collectively over time, they can begin revealing coordinated operational infrastructure.
+
+---
+
+## 3. Multi-Hop Laundering Patterns
+
+Pig-butchering investigations frequently appear to involve multi-hop transaction movement designed to complicate tracing efforts.
+
+Reported laundering behaviors include:
+- Rapid Sequential Transfers  
+- Layered Wallet Structures  
+- Consolidation Into Shared Collection Wallets  
+- Intermediary Wallet Chains  
+- Exchange Deposit Exposure  
+
+The accumulation of these indicators can gradually increase confidence that otherwise separate wallets may belong to the same operational network.
+
+---
+
+## 4. Cross-Domain Investigative Overlap
+
+Public reporting suggests pig-butchering investigations increasingly overlap with:
+- Human Trafficking Investigations  
+- Financial Intelligence Analysis  
+- OSINT Research  
+- Telecom And Infrastructure Analysis  
+- International Law Enforcement Coordination  
+
+The investigative challenge often appears less focused on identifying a single “scam wallet” and more focused on reconstructing the broader operational ecosystem supporting the fraud network.
+
+---
+
+# Example Wallet Cluster Flow
+
+```text
+Victim Wallet A
+        │
+Victim Wallet B
+        │
+Victim Wallet C
+        ▼
+Intermediate Wallet 1
+        ▼
+Intermediate Wallet 2
+        ▼
+Collection Wallet
+        ▼
+Exchange Deposit Wallet
+```
+
+This simplified flow demonstrates how investigators may analyze:
+- Transaction Timing  
+- Transfer Sequencing  
+- Consolidation Patterns  
+- Shared Intermediary Infrastructure  
+- Exchange Exposure  
+
+to identify operational relationships between wallets.
+
+---
+
+# Investigative Relevance
+
+These cases demonstrate how blockchain investigations increasingly depend on:
+- Behavioral Analysis  
+- Transaction Pattern Recognition  
+- Wallet Clustering Methodologies  
+- Financial Intelligence Correlation  
+- Operational Infrastructure Mapping  
+
+Modern cryptocurrency investigations frequently involve reconstructing relationships that are not immediately visible on-chain through the gradual accumulation of behavioral indicators and transaction analysis.
+
+The investigative focus increasingly appears centered on identifying broader operational ecosystems rather than isolated wallet activity.
+
+---
+
+# Sources
+
+## Wall Street Journal
+https://www.wsj.com/finance/currencies/cambodia-huione-pig-butchering-scam-f9d16ef9
+
+## Chainalysis
+https://www.chainalysis.com/glossary/pig-butchering/
+
+---
+
+# Disclaimer
+
+This analysis is based solely on publicly available information and is intended for educational and research purposes.
