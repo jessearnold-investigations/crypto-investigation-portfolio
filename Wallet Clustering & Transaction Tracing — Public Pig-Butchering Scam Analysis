@@ -1,0 +1,175 @@
+# Wallet Clustering & Transaction Tracing — Public Pig-Butchering Scam Analysis
+
+## Executive Summary
+
+This repository contains research and analysis related to wallet clustering and transaction tracing methodologies associated with publicly reported pig-butchering scam activity.
+
+The purpose of this analysis is to examine:
+
+- Wallet clustering methodologies  
+- Multi-hop transaction tracing  
+- Behavioral transaction analysis  
+- Intermediary wallet infrastructure  
+- Exchange exposure patterns  
+- Operational consistency across scam-linked wallets  
+
+Public blockchain activity associated with publicly reported scam wallets appears to demonstrate behavioral characteristics commonly observed in large-scale pig-butchering investigations.
+
+---
+
+# Publicly Reported Wallet
+
+Sample wallet referenced in public scam reporting databases:
+
+```text
+0x6a7b8d6032640e37c1db7b44378fa7bc063002f9
+```
+
+Source:
+- Chainabuse public scam reporting database
+
+This analysis does not claim definitive attribution of ownership. The observations below focus solely on publicly observable blockchain behavior and transaction patterns.
+
+---
+
+# Investigative Question
+
+One of the primary investigative challenges in cryptocurrency fraud investigations involves determining:
+
+**How do investigators identify operational relationships between wallets without relying solely on direct attribution?**
+
+Blockchain investigations increasingly appear to depend on identifying repeated behavioral consistency across transaction flows rather than any single wallet in isolation.
+
+---
+
+# Key Observations
+
+## 1. Consolidation Behavior
+
+Public transaction activity associated with this wallet appeared to involve:
+- Multiple inbound funding wallets  
+- Movement into intermediary wallets  
+- Consolidation into fewer collection points  
+- Subsequent forwarding activity toward additional destinations  
+
+Consolidation behavior is frequently analyzed because it can reveal operational coordination between otherwise separate transaction flows.
+
+---
+
+## 2. Multi-Hop Transaction Sequencing
+
+Observed transaction activity appeared to involve:
+- Rapid sequential forwarding  
+- Short transfer intervals between wallets  
+- Layered intermediary movement  
+- Multiple transaction hops before exchange exposure  
+
+Multi-hop movement patterns are commonly analyzed in cryptocurrency investigations because they may complicate attribution and tracing efforts.
+
+---
+
+## 3. Repeated Intermediary Wallet Exposure
+
+Several intermediary wallets appeared repeatedly across separate transaction paths.
+
+Behavioral indicators observed included:
+- Reuse of intermediary wallets  
+- Similar transaction timing patterns  
+- Repeated forwarding structures  
+- Shared counterparty exposure  
+
+Viewed individually, these indicators may appear operationally ordinary. Viewed collectively over time, they can begin revealing coordinated infrastructure relationships.
+
+---
+
+## 4. Exchange Exposure Patterns
+
+A portion of traced transaction activity ultimately interacted with wallets associated with centralized exchange infrastructure.
+
+Exchange exposure analysis is frequently important because:
+- Exchanges may represent potential intervention points  
+- Investigators may identify deposit clustering patterns  
+- Timing relationships may help reconstruct operational flows  
+- Exchange interaction may support broader investigative analysis  
+
+---
+
+## 5. Cluster Timing Consistency
+
+Observed wallet activity appeared temporally grouped in ways that may suggest coordinated operational deployment.
+
+Indicators analyzed included:
+- Wallet funding timing  
+- Sequential transfer timing  
+- Cluster activation periods  
+- Similar transaction intervals across wallets  
+
+Transaction timing analysis is frequently used in wallet clustering investigations because coordinated operational behavior often produces detectable temporal patterns.
+
+---
+
+# Simplified Cluster Flow
+
+```text
+Victim Wallets
+      │
+      ▼
+Intermediary Wallets
+      │
+      ▼
+Collection Wallet
+      │
+      ▼
+Exchange Exposure
+```
+
+This simplified flow demonstrates how investigators may analyze:
+- Transaction timing  
+- Transfer sequencing  
+- Consolidation patterns  
+- Shared intermediary infrastructure  
+- Exchange exposure relationships  
+
+to identify operational relationships between wallets.
+
+---
+
+# Investigative Relevance
+
+This case demonstrates how modern blockchain investigations increasingly depend on:
+- Behavioral transaction analysis  
+- Wallet clustering methodologies  
+- Multi-hop tracing analysis  
+- Exchange exposure identification  
+- Financial intelligence correlation  
+- Operational infrastructure mapping  
+
+The investigative focus increasingly appears centered on identifying broader operational ecosystems rather than isolated wallet activity.
+
+Pig-butchering investigations also continue demonstrating increasing overlap between:
+- Cryptocurrency investigations  
+- Financial intelligence analysis  
+- Human trafficking investigations  
+- OSINT research  
+- International law enforcement coordination  
+
+As blockchain investigations continue evolving, identifying subtle behavioral consistency across transaction activity appears increasingly important in reconstructing operational relationships that may not be immediately visible on-chain.
+
+---
+
+# Sources
+
+## Chainabuse
+https://www.chainabuse.com/reports
+
+## Reuters
+https://www.reuters.com/world/china/scammers-guide-how-cybercriminals-plot-rob-target-week-2025-12-31/
+
+## Chainalysis
+https://www.chainalysis.com/blog/pig-butchering-human-trafficking/
+
+---
+
+# Disclaimer
+
+This analysis is based solely on publicly available information and observable blockchain activity and is intended for educational and research purposes only.
