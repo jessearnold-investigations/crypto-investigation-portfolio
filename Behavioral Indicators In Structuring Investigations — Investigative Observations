@@ -1,0 +1,151 @@
+# Behavioral Indicators In Structuring Investigations — Investigative Observations
+
+## Executive Summary
+
+This repository contains research and analysis related to behavioral indicators commonly observed in structuring and money laundering investigations.
+
+The purpose of this analysis is to examine:
+
+- Structuring behavior  
+- Transaction timing analysis  
+- Cash deposit velocity changes  
+- Branch and ATM usage patterns  
+- Behavioral inconsistency analysis  
+- Aggregation methodologies in AML investigations  
+
+Public reporting and AML investigations increasingly suggest that structuring activity is often identified not through a single suspicious transaction, but through repeated behavioral consistency that gradually emerges over time.
+
+---
+
+# Background
+
+For years a customer’s activity looked completely ordinary:
+- Payroll deposits twice a month  
+- Mortgage payments  
+- Restaurants  
+- Utility bills  
+
+The kind of account activity that blends into millions of transactions moving through the financial system every day.
+
+Then the cash deposits started:
+- $8,900 on Monday  
+- $9,200 on Thursday  
+- $8,700 the following week  
+
+Using three different branches and multiple ATM deposits.
+
+Individually, none of the deposits crossed reporting thresholds.
+
+Collectively, the pattern started becoming difficult to ignore.
+
+---
+
+# Investigative Question
+
+One of the most important investigative challenges in structuring investigations involves determining:
+
+**At what point do repeated ordinary-looking transactions stop appearing coincidental and begin indicating deliberate behavioral patterning?**
+
+Public reporting and investigative analysis increasingly suggest the answer often emerges through aggregation rather than any single transaction by itself.
+
+---
+
+# Key Observations
+
+## 1. Deposit Threshold Patterning
+
+Public reporting and AML investigations frequently involve:
+- Cash deposits repeatedly just below reporting thresholds  
+- Consistent transaction sizing patterns  
+- Structured timing intervals between deposits  
+- Sequential deposit activity across multiple locations  
+
+Viewed individually, these transactions may appear operationally ordinary.
+
+Viewed collectively over time, behavioral consistency can begin suggesting deliberate structuring activity.
+
+---
+
+## 2. Multi-Branch And ATM Usage
+
+Another major investigative theme in structuring cases involves:
+- Deposit activity spreading across multiple branches  
+- ATM deposits occurring in separate locations  
+- Geographic transaction dispersion  
+- Branch rotation patterns  
+
+This type of activity may complicate transaction monitoring visibility when viewed at the individual branch level rather than through aggregated account behavior.
+
+---
+
+## 3. Behavioral Inconsistency
+
+Structuring investigations frequently involve identifying activity inconsistent with historical customer behavior.
+
+Investigators often analyze:
+- Sudden increases in cash velocity  
+- New transaction behaviors appearing abruptly  
+- Business activity lacking a clear economic explanation  
+- Funds rapidly moving into additional accounts after deposit  
+
+Behavioral inconsistency analysis is often important because laundering activity may initially appear intentionally designed to look ordinary in isolation.
+
+---
+
+## 4. Aggregation Analysis
+
+Public reporting increasingly suggests investigators identify structuring behavior through aggregation analysis involving:
+- Timing  
+- Frequency  
+- Branch usage  
+- Transaction size consistency  
+- Historical behavioral deviation  
+
+The investigative value often emerges only after multiple transactions are viewed collectively across longer timelines.
+
+---
+
+# Public Reporting Context
+
+Public reporting in several recent AML investigations has shown investigators alleging laundering networks deliberately fragmented deposits across:
+- Multiple accounts  
+- Branches  
+- ATMs  
+- Geographic locations  
+
+to avoid triggering:
+- Automated reporting thresholds  
+- Transaction monitoring systems  
+- Escalation workflows  
+
+This demonstrates how laundering investigations increasingly depend on identifying subtle behavioral consistency rather than isolated suspicious activity.
+
+---
+
+# Investigative Relevance
+
+This case demonstrates how modern AML investigations increasingly rely on:
+- Behavioral transaction analysis  
+- Historical activity comparison  
+- Aggregation methodologies  
+- Timing pattern analysis  
+- Branch usage analysis  
+- Velocity monitoring  
+
+Many AML investigations appear to begin not with one major red flag, but with repeated activity that gradually stops looking accidental when viewed collectively over time.
+
+---
+
+# Sources
+
+## FinCEN Advisory
+https://www.fincen.gov/resources/advisories/fincen-advisory-fin-2022-a001
+
+## U.S. Department of Justice
+https://www.justice.gov/usao-cdca/pr/san-gabriel-valley-businessman-sentenced-over-6-years-prison-role-money
+
+---
+
+# Disclaimer
+
+This analysis is based solely on publicly available information and is intended for educational and research purposes only.
