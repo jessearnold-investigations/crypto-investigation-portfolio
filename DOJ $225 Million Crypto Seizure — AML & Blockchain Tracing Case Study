@@ -1,0 +1,272 @@
+# DOJ $225 Million Crypto Seizure — AML & Blockchain Tracing Case Study
+
+## Executive Summary
+
+This repository examines the U.S. Department of Justice's June 2025 civil forfeiture action involving approximately $225 million in cryptocurrency allegedly connected to pig-butchering investment fraud and associated money laundering activity.
+
+The purpose of this analysis is to examine:
+
+- Flow-of-funds tracing
+- Wallet clustering
+- Money laundering typologies
+- Behavioral transaction analysis
+- Exchange exposure
+- Asset seizure opportunities
+
+This case is particularly interesting because investigators reportedly followed victim funds through hundreds of thousands of transactions before identifying cryptocurrency ultimately subject to seizure.
+
+---
+
+# Background
+
+According to the Department of Justice, investigators alleged that cryptocurrency investment fraud proceeds were laundered through a sophisticated network of wallets and transactions designed to obscure ownership and movement of funds.
+
+Public reporting indicates investigators utilized:
+
+- Blockchain analysis
+- Financial intelligence
+- Exchange cooperation
+- Victim reporting
+- Cross-border investigative coordination
+
+to identify cryptocurrency ultimately linked to fraud proceeds.
+
+Source:
+
+https://www.justice.gov/opa/pr/united-states-files-civil-forfeiture-complaint-against-225m-funds-involved-cryptocurrency
+
+---
+
+# Investigative Question
+
+One of the most interesting questions in this case is:
+
+**How do investigators distinguish meaningful transaction activity from hundreds of thousands of transactions intentionally designed to create noise?**
+
+The challenge is rarely finding transactions.
+
+The challenge is identifying which transactions matter.
+
+---
+
+# Publicly Reported Wallet Tracing Methodology
+
+The forfeiture complaint does not focus on a single wallet.
+
+Instead, investigators reportedly identified:
+
+- Collection wallets
+- Intermediary wallets
+- Consolidation wallets
+- Exchange deposit wallets
+- Seizable cryptocurrency holdings
+
+through behavioral and transactional analysis.
+
+---
+
+# Simplified Investigative Flow
+
+```text
+Victim Wallet
+      │
+      ▼
+Collection Wallet
+      │
+      ▼
+Intermediary Wallets
+      │
+      ▼
+Additional Layering Activity
+      │
+      ▼
+Exchange Exposure
+      │
+      ▼
+Identified Assets
+      │
+      ▼
+Seizure Action
+```
+
+---
+
+# Behavioral Indicators Observed
+
+Patterns investigators frequently examine in laundering networks include:
+
+## Collection Activity
+
+- Large numbers of inbound transactions
+- Numerous unrelated counterparties
+- Consistent fund aggregation
+
+## Layering Activity
+
+- Multiple intermediary wallets
+- Rapid wallet-to-wallet movement
+- Fund splitting
+- Cross-chain transfers
+
+## Consolidation Behavior
+
+- Repeated movement into central wallets
+- Transaction timing consistency
+- Reuse of operational infrastructure
+
+## Exchange Exposure
+
+- Deposits into identifiable services
+- Custodial wallet interaction
+- Potential intervention points
+
+---
+
+# Example Tracing Exercise
+
+While the forfeiture complaint references a broad laundering network rather than a single address, investigators often approach blockchain analysis using a methodology similar to:
+
+### Step 1: Identify Victim Transaction
+
+Questions:
+
+- Where did the victim send funds?
+- What asset was transferred?
+- What blockchain was used?
+
+### Step 2: Identify Immediate Recipient
+
+Questions:
+
+- Does the wallet receive funds from many unrelated victims?
+- Is the wallet functioning as a collection point?
+
+### Step 3: Follow Outbound Movement
+
+Questions:
+
+- How quickly do funds leave?
+- Are funds split into multiple wallets?
+- Is there evidence of layering?
+
+### Step 4: Identify Clustering Opportunities
+
+Questions:
+
+- Are counterparties reused?
+- Are transaction timings coordinated?
+- Are there common destination wallets?
+
+### Step 5: Identify Exchange Exposure
+
+Questions:
+
+- Do funds reach exchanges?
+- Are there custodial services involved?
+- Is there a realistic intervention opportunity?
+
+---
+
+# AML Relevance
+
+This case demonstrates how modern AML investigations increasingly overlap with blockchain investigations.
+
+Investigators must often combine:
+
+- Transaction monitoring
+- Wallet tracing
+- Behavioral analysis
+- Financial intelligence
+- OSINT
+- Exchange cooperation
+
+to reconstruct laundering networks.
+
+Viewed individually, transactions may appear ordinary.
+
+Viewed collectively over time, patterns emerge that can reveal broader operational infrastructure.
+
+---
+
+# Investigative Takeaways
+
+Several observations stand out:
+
+- Laundering networks often rely on transaction volume to create analytical noise.
+- Collection wallets frequently become visible before operational leadership.
+- Exchange exposure remains one of the most important investigative opportunities.
+- Behavioral consistency often proves more valuable than any individual transaction.
+- Asset seizure frequently occurs after investigators reconstruct the broader network rather than a single wallet.
+
+Many AML and blockchain investigations appear to begin the same way:
+
+Not with one massive red flag, but with transaction patterns that gradually stop looking accidental.
+
+---
+
+# Suggested Screenshots To Add
+
+For a stronger portfolio piece, include:
+
+### Blockchain Explorer Screenshot
+
+Capture:
+
+- Victim transaction
+- Collection wallet activity
+- Large outbound transfers
+
+### Wallet Cluster Diagram
+
+Example:
+
+```text
+Victim A ─┐
+Victim B ─┼──► Collection Wallet
+Victim C ─┘
+                 │
+                 ▼
+         Intermediary Wallets
+                 │
+                 ▼
+          Consolidation Wallet
+                 │
+                 ▼
+             Exchange
+                 │
+                 ▼
+           Seized Assets
+```
+
+### Timeline Graphic
+
+Show:
+
+- Initial victim payment
+- Collection phase
+- Layering phase
+- Consolidation phase
+- Exchange exposure
+- Asset seizure
+
+---
+
+# Sources
+
+## U.S. Department of Justice
+
+https://www.justice.gov/opa/pr/united-states-files-civil-forfeiture-complaint-against-225m-funds-involved-cryptocurrency
+
+## FBI IC3
+
+https://www.ic3.gov
+
+## Chainalysis
+
+https://www.chainalysis.com
+
+---
+
+# Disclaimer
+
+This analysis is based solely on publicly available information and is intended for educational and research purposes only. No ownership attribution is claimed beyond information publicly reported by law enforcement agencies and official sources.
