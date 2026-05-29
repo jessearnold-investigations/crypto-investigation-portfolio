@@ -1,0 +1,186 @@
+# TRON Wallet Tracing Exercise — Behavioral Analysis of a Publicly Reported Scam Wallet
+
+## Executive Summary
+
+This repository contains a blockchain tracing exercise involving a publicly reported TRON wallet associated with investment-fraud complaints.
+
+The purpose of this analysis is not to make ownership claims, but to demonstrate how investigators approach an unfamiliar wallet and identify behavioral patterns that may warrant additional investigation.
+
+Key focus areas include:
+
+- Collection wallet behavior
+- Transaction flow analysis
+- Wallet clustering opportunities
+- Exchange exposure
+- Layering indicators
+- Behavioral consistency across counterparties
+
+---
+
+# Wallet Under Review
+
+**TRON Address**
+
+```text
+TVgiedqr7N2XqbZn57NhcK3DR5VfVzGuxD
+```
+
+Source:
+
+- Publicly reported on Chainabuse
+- Open-source blockchain data available through Tronscan
+
+---
+
+# Investigative Objective
+
+Rather than asking whether a single transaction appears suspicious, the objective is to determine:
+
+**What can transaction behavior reveal about the wallet's operational role within a larger network?**
+
+Investigators frequently encounter wallets with thousands of transactions and numerous counterparties. In those situations, the value often comes from identifying patterns rather than evaluating transactions individually.
+
+---
+
+# Questions Investigators Might Ask
+
+When examining a wallet like this, several questions become important:
+
+- Does the wallet function primarily as a collection point?
+- Are funds arriving from numerous unrelated counterparties?
+- Is there evidence of rapid consolidation?
+- How quickly do funds move after receipt?
+- Is there observable exchange exposure?
+- Are repeat counterparties creating clustering opportunities?
+- Does transaction timing suggest coordinated activity?
+
+---
+
+# Behavioral Indicators To Examine
+
+## 1. Collection Wallet Behavior
+
+Common indicators include:
+
+- Numerous inbound transactions
+- Large numbers of unique counterparties
+- Regular consolidation of funds
+- Limited long-term balance retention
+
+Collection wallets often serve as aggregation points before funds move elsewhere.
+
+---
+
+## 2. Layering Activity
+
+Investigators frequently analyze:
+
+- Multi-hop transaction movement
+- Repeated intermediary wallet exposure
+- Funds splitting across multiple destinations
+- Rapid outbound transfers after receipt
+
+These behaviors may complicate attribution efforts and increase tracing complexity.
+
+---
+
+## 3. Exchange Exposure
+
+One of the most important investigative questions is whether funds eventually interact with:
+
+- Centralized exchanges
+- OTC services
+- Custodial wallets
+- Payment processors
+
+Exchange exposure can provide valuable investigative leads and potential intervention points.
+
+---
+
+## 4. Wallet Clustering Opportunities
+
+Investigators may look for:
+
+- Shared counterparties
+- Consistent transaction timing
+- Repeated fund flows
+- Similar operational behavior
+
+Viewed collectively, these patterns may help identify relationships that are not immediately obvious from individual transactions.
+
+---
+
+# Simplified Transaction Flow
+
+```text
+Victim Wallets
+      │
+      ▼
+Collection Wallet
+(TVgiedqr7N2XqbZn57NhcK3DR5VfVzGuxD)
+      │
+      ▼
+Intermediary Wallets
+      │
+      ▼
+Additional Consolidation
+      │
+      ▼
+Exchange Exposure
+```
+
+This simplified model illustrates the types of transaction flows investigators often reconstruct during blockchain investigations.
+
+---
+
+# Analytical Observations
+
+A single transaction rarely provides enough context to understand the purpose of a wallet.
+
+Investigators typically rely on:
+
+- Transaction frequency
+- Counterparty diversity
+- Timing analysis
+- Flow-of-funds reconstruction
+- Exchange exposure
+- Network relationships
+
+Hundreds or thousands of transactions viewed together often reveal far more than any individual transfer.
+
+---
+
+# Investigative Relevance
+
+Modern blockchain investigations increasingly focus on behavioral consistency across networks rather than isolated transactions.
+
+Viewed individually, transactions may appear operationally ordinary.
+
+Viewed collectively over time, transaction timing, counterparty relationships, consolidation behavior, and exchange interactions can begin revealing larger operational structures.
+
+This shift toward behavioral analysis is becoming increasingly important in:
+
+- Cryptocurrency fraud investigations
+- Pig-butchering investigations
+- Scam compound investigations
+- Financial intelligence analysis
+- AML investigations
+- Blockchain forensic investigations
+
+---
+
+# Sources
+
+## Chainabuse
+
+https://www.chainabuse.com
+
+## Tronscan
+
+https://tronscan.org
+
+---
+
+# Disclaimer
+
+This analysis is based solely on publicly available information and blockchain data. No ownership attribution is claimed. The purpose of this repository is educational research and investigative methodology practice.
