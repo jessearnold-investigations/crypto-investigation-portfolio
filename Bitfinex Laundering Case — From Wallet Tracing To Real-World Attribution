@@ -1,0 +1,203 @@
+# Bitfinex Laundering Case — From Wallet Tracing To Real-World Attribution
+
+## Executive Summary
+
+This repository contains research and analysis related to the Bitfinex laundering investigation involving Ilya Lichtenstein and Heather Morgan.
+
+The purpose of this analysis is to examine how cryptocurrency investigations can move from blockchain tracing to real-world attribution through the combination of:
+
+- Wallet tracing  
+- Transaction flow analysis  
+- Wallet clustering  
+- Exchange exposure  
+- KYC records  
+- Cloud storage evidence  
+- Traditional investigative methods  
+
+This case is useful because public reporting describes how investigators moved from blockchain activity to identifiable individuals.
+
+---
+
+# Background
+
+In 2016, Bitfinex suffered one of the largest cryptocurrency exchange hacks in history.
+
+Years later, investigators traced stolen Bitcoin through thousands of transactions and numerous wallets before linking laundering activity to accounts and infrastructure associated with identifiable individuals.
+
+The case demonstrates an important investigative principle:
+
+**The blockchain does not usually reveal a person’s name. It reveals behavior.**
+
+Real-world identity attribution usually comes later, when blockchain activity intersects with off-chain records.
+
+---
+
+# Investigative Question
+
+One of the central questions in this case is:
+
+**How does an investigation move from a wallet address to an identifiable person?**
+
+Public reporting suggests the answer involved gradually connecting:
+
+- Stolen funds  
+- Intermediary wallets  
+- Exchange accounts  
+- Financial records  
+- Cloud storage files  
+- Device and account evidence  
+
+The investigation did not appear to rely on one transaction alone. It relied on the accumulation of relationships across on-chain and off-chain evidence.
+
+---
+
+# Key Observations
+
+## 1. Wallet Tracing Does Not Equal Identity Attribution
+
+A wallet address is not a legal identity.
+
+Investigators may identify:
+- Source wallets  
+- Intermediary wallets  
+- Consolidation wallets  
+- Exchange deposit wallets  
+- Service exposure  
+
+But additional evidence is usually required to connect a wallet to a person.
+
+This distinction is important in cryptocurrency investigations because overclaiming attribution can weaken the analysis.
+
+---
+
+## 2. Transaction Patterns Created Investigative Leads
+
+Public reporting indicates investigators traced stolen Bitcoin through thousands of transactions across numerous wallets.
+
+Patterns investigators often examine include:
+- Repeated intermediary wallet exposure  
+- Large-scale consolidation activity  
+- Exchange deposit interactions  
+- Transaction timing consistency  
+- Wallet clustering opportunities  
+- Movement between services and custodial platforms  
+
+Viewed individually, many transactions may appear ordinary.
+
+Viewed collectively, transaction flows can reveal a broader laundering network.
+
+---
+
+## 3. Exchange Exposure Created Attribution Opportunities
+
+One of the most important investigative opportunities in cryptocurrency tracing occurs when funds interact with exchanges or custodial services.
+
+Exchange exposure can potentially provide:
+- KYC information  
+- Account registration data  
+- IP logs  
+- Device identifiers  
+- Withdrawal records  
+- Linked financial accounts  
+
+This is often where blockchain analysis begins connecting with traditional investigative tools.
+
+---
+
+## 4. Off-Chain Evidence Strengthened Attribution
+
+Public reporting indicates investigators ultimately connected blockchain activity to additional records and stored credentials.
+
+Off-chain evidence may include:
+- Email accounts  
+- Cloud storage files  
+- Device records  
+- Financial documents  
+- Exchange account records  
+- Saved private keys or wallet credentials  
+
+This case demonstrates why cryptocurrency investigations often require both blockchain analysis and traditional digital evidence review.
+
+---
+
+# Simplified Investigative Flow
+
+```text
+Stolen funds
+      │
+      ▼
+Initial wallet cluster
+      │
+      ▼
+Intermediary wallets
+      │
+      ▼
+Exchange / service exposure
+      │
+      ▼
+Off-chain records
+      │
+      ▼
+Real-world attribution
+```
+
+---
+
+# Investigative Relevance
+
+The Bitfinex case is a strong example of how blockchain investigations can develop over time.
+
+The investigation appears to have progressed from:
+
+```text
+Wallet address → Transaction pattern → Service exposure → Off-chain evidence → Identity attribution
+```
+
+This matters because modern crypto investigations often begin with limited information.
+
+A single wallet may not reveal much.
+
+A second wallet may not reveal much either.
+
+But repeated relationships between wallets, timing patterns, exchange exposure, and off-chain evidence can gradually build a defensible investigative picture.
+
+---
+
+# Sound Judgment Takeaway
+
+This case highlights an important distinction:
+
+**On-chain attribution is not the same as real-world attribution.**
+
+Blockchain tracing can identify:
+- Patterns  
+- Wallet relationships  
+- Fund flows  
+- Service exposure  
+- Potential investigative leads  
+
+But real-world attribution typically requires corroborating evidence from exchanges, devices, accounts, communications, or other records.
+
+That distinction is critical for professional cryptocurrency investigations.
+
+---
+
+# Sources
+
+## Wired
+
+https://www.wired.com/story/bitcoin-seizure-record-doj-crypto-tracing-monero/
+
+## TRM Labs
+
+https://www.trmlabs.com/resources/blog/the-fundamentals-of-cryptocurrency-transaction-tracing
+
+## FBI IC3 Cryptocurrency Guidance
+
+https://www.ic3.gov/CrimeInfo/Cryptocurrency
+
+---
+
+# Disclaimer
+
+This analysis is based solely on publicly available information and is intended for educational and investigative methodology purposes only.
