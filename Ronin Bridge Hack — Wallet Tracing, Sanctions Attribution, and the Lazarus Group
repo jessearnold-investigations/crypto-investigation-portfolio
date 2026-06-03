@@ -1,0 +1,279 @@
+# Ronin Bridge Hack — Wallet Tracing, Sanctions Attribution, and the Lazarus Group
+
+## Executive Summary
+
+This repository examines the blockchain tracing and attribution process that followed the Ronin Bridge exploit and explores how investigators connected on-chain activity to the North Korean state-sponsored Lazarus Group.
+
+The purpose of this analysis is to examine:
+
+- Blockchain tracing methodologies
+- Wallet clustering
+- Sanctions attribution
+- Exchange exposure
+- Mixer usage
+- Threat actor attribution
+- Cryptocurrency laundering techniques
+
+This case is particularly valuable because it demonstrates how investigators can move from a publicly observable wallet address to a publicly attributed threat actor through the combination of blockchain analysis, intelligence reporting, sanctions investigations, and law enforcement collaboration.
+
+---
+
+# Background
+
+In March 2022, attackers exploited the Ronin Bridge and stole approximately $540 million in cryptocurrency.
+
+The theft became one of the largest cryptocurrency hacks in history.
+
+Following the exploit, investigators began tracing the movement of stolen funds across multiple wallets and services.
+
+One wallet later publicly sanctioned by OFAC was:
+
+```text
+0x098B716B8Aaf21512996dC57EB0615e2383E2f96
+```
+
+The U.S. Treasury subsequently added the address to the Specially Designated Nationals (SDN) list and publicly associated it with the Ronin Bridge exploit.
+
+Source:
+
+https://ofac.treasury.gov/recent-actions/20220422
+
+---
+
+# Investigative Question
+
+One of the most important questions in blockchain investigations is:
+
+**How does an investigator move from a wallet address to attribution of a threat actor?**
+
+The Ronin investigation demonstrates that attribution rarely comes from a single transaction.
+
+Instead, investigators reportedly combined multiple sources of evidence to build a broader intelligence picture.
+
+---
+
+# Publicly Sanctioned Wallet
+
+OFAC-Published Wallet:
+
+```text
+0x098B716B8Aaf21512996dC57EB0615e2383E2f96
+```
+
+Public Attribution:
+
+- Ronin Bridge Exploit
+- Lazarus Group
+- North Korean cyber operations
+
+Source:
+
+https://ofac.treasury.gov/recent-actions/20220422
+
+---
+
+# Simplified Investigative Flow
+
+```text
+Ronin Bridge Exploit
+        │
+        ▼
+Sanctioned Wallet
+0x098B716B8Aaf21512996dC57EB0615e2383E2f96
+        │
+        ▼
+Wallet Clusters
+        │
+        ▼
+Tornado Cash
+        │
+        ▼
+Exchange Exposure
+        │
+        ▼
+Threat Actor Attribution
+(Lazarus Group)
+```
+
+---
+
+# Key Observations
+
+## 1. Blockchain Analysis Revealed Transaction Relationships
+
+Public reporting indicates investigators examined:
+
+- Fund flows from the exploit
+- Wallet relationships
+- Transaction timing patterns
+- Wallet clustering
+- Consolidation behavior
+- Service interactions
+
+Viewed individually, transactions may have appeared ordinary.
+
+Viewed collectively, investigators reportedly identified behavioral patterns consistent with known Lazarus Group activity.
+
+---
+
+## 2. Wallet Clustering Strengthened Attribution
+
+Blockchain investigations often rely on wallet clustering.
+
+Investigators may examine:
+
+- Shared counterparties
+- Repeated transaction paths
+- Timing consistency
+- Infrastructure reuse
+- Common destination wallets
+
+The goal is not to identify a person immediately.
+
+The goal is to identify operational relationships.
+
+---
+
+## 3. Tornado Cash Added Complexity
+
+Public reporting indicates portions of the stolen funds moved through Tornado Cash.
+
+This introduced additional investigative challenges because mixers are designed to obscure transaction flows.
+
+Investigators reportedly continued monitoring:
+
+- Timing relationships
+- Fund movement patterns
+- Cluster behavior
+- Exchange interactions
+
+Even when direct tracing becomes more difficult, behavioral analysis can still produce valuable investigative leads.
+
+---
+
+## 4. Exchange Exposure Created Investigative Opportunities
+
+One of the most important investigative moments reportedly occurred when funds interacted with services and exchanges.
+
+Exchange exposure can potentially provide:
+
+- Account information
+- KYC records
+- Device information
+- IP logs
+- Withdrawal records
+- Additional intelligence leads
+
+Blockchain analysis often becomes significantly more powerful once funds reach identifiable services.
+
+---
+
+## 5. Attribution Required Multiple Sources
+
+One detail that stands out is that investigators reportedly did not rely on blockchain analysis alone.
+
+Public reporting indicates attribution involved a combination of:
+
+- Blockchain tracing
+- Historical Lazarus Group activity
+- Intelligence reporting
+- Sanctions investigations
+- Exchange cooperation
+- Law enforcement intelligence
+
+Viewed individually, each source provided only part of the picture.
+
+Viewed collectively, they reportedly created a strong enough evidentiary basis for public attribution and sanctions action.
+
+---
+
+# Why This Matters For AML Investigations
+
+The Ronin case demonstrates how cryptocurrency investigations increasingly overlap with:
+
+- AML investigations
+- Financial intelligence
+- Cybercrime investigations
+- Sanctions enforcement
+- National security investigations
+
+Modern investigators frequently combine:
+
+- Wallet tracing
+- Behavioral analysis
+- Exchange intelligence
+- Open-source intelligence
+- Government reporting
+
+to identify and disrupt illicit financial networks.
+
+---
+
+# Investigative Takeaways
+
+Several observations stand out:
+
+- A wallet address is not an identity.
+- Blockchain activity often serves as an investigative lead rather than a conclusion.
+- Wallet clustering remains one of the most valuable blockchain investigative techniques.
+- Exchange exposure frequently creates the strongest attribution opportunities.
+- Attribution is usually built through evidence correlation rather than a single transaction.
+
+Many blockchain investigations appear to begin the same way:
+
+Not with a suspect.
+
+With a transaction.
+
+Then a wallet.
+
+Then a pattern.
+
+Then enough evidence to identify the actor behind it.
+
+---
+
+# Sources
+
+## U.S. Treasury OFAC
+
+https://ofac.treasury.gov/recent-actions/20220422
+
+## Elliptic
+
+https://www.elliptic.co/blog/540-million-stolen-from-the-ronin-defi-bridge
+
+## TRM Labs
+
+https://www.trmlabs.com/resources/blog/north-koreas-lazarus-group-moves-funds-through-tornado-cash
+
+## FBI Public Attribution
+
+https://www.fbi.gov/news/press-releases/fbi-statement-on-lazarus-group-and-aptd38-cyber-actors
+
+---
+
+# Suggested Enhancements
+
+To strengthen this case study further:
+
+1. Pull the wallet into Etherscan.
+2. Identify the largest inbound and outbound transactions.
+3. Capture screenshots of the transaction history.
+4. Build a wallet cluster diagram showing:
+   - Exploit wallet
+   - Intermediary wallets
+   - Tornado Cash deposits
+   - Exchange exposure
+5. Create a timeline of:
+   - Ronin exploit
+   - Initial fund movements
+   - Tornado Cash usage
+   - OFAC sanctions designation
+   - Public attribution
+
+---
+
+# Disclaimer
+
+This analysis is based solely on publicly available information and official government reporting. Attribution references are derived from public OFAC sanctions actions, FBI statements, and related investigative reporting.
