@@ -1,0 +1,214 @@
+# Bitcoin Fog — Behavioral Analysis of a Cryptocurrency Money Laundering Network
+
+## Executive Summary
+
+This repository examines the Bitcoin Fog investigation and explores how investigators identified behavioral patterns within a cryptocurrency mixing service that allegedly laundered criminal proceeds for more than a decade.
+
+The purpose of this analysis is to examine:
+
+- Cryptocurrency money laundering typologies
+- Mixing service infrastructure
+- Behavioral transaction analysis
+- Wallet clustering
+- Exchange exposure
+- Blockchain tracing methodologies
+- Attribution through pattern analysis
+
+According to the U.S. Department of Justice, Roman Sterlingov was ultimately convicted for operating Bitcoin Fog, a cryptocurrency mixing service that reportedly laundered more than $400 million in criminal proceeds.
+
+---
+
+# Background
+
+Bitcoin Fog was designed to make cryptocurrency transactions harder to trace.
+
+For more than a decade, the service allegedly helped criminals launder funds connected to:
+
+- Darknet markets
+- Fraud
+- Identity theft
+- Other illicit activity
+
+Mixing services are designed to break the direct relationship between the source of funds and their final destination.
+
+Viewed transaction-by-transaction, the movement of funds can appear fragmented and unrelated.
+
+Viewed collectively, behavioral patterns begin to emerge.
+
+---
+
+# Investigative Question
+
+One of the most important questions in cryptocurrency money laundering investigations is:
+
+**Can investigators still identify meaningful patterns when a service is specifically designed to obscure transaction flows?**
+
+The Bitcoin Fog investigation suggests the answer is yes.
+
+The challenge shifts from following a simple transaction chain to identifying behavioral consistency across large numbers of transactions.
+
+---
+
+# How Investigators Approached The Case
+
+Investigators did not start by looking at a single suspicious transaction.
+
+They started by looking at patterns.
+
+Public reporting suggests investigators analyzed:
+
+- Transaction timing
+- Wallet relationships
+- Mixing activity
+- Fund movement patterns
+- Service interactions
+- Exchange exposure
+
+Rather than focusing on individual transactions, investigators reportedly examined how transactions behaved collectively over time.
+
+---
+
+# Behavioral Indicators Investigators Often Examine
+
+Patterns investigators frequently analyze in cases involving mixing services include:
+
+## Repeated Interaction With Known Mixing Infrastructure
+
+Investigators may look for:
+
+- Frequent deposits into mixing services
+- Recurring interactions with known laundering infrastructure
+- Consistent usage patterns over time
+
+---
+
+## Timing Relationships Between Deposits And Withdrawals
+
+Timing analysis may reveal:
+
+- Coordinated transaction behavior
+- Consistent delay periods
+- Operational patterns between wallets
+
+Viewed individually, these relationships may appear insignificant.
+
+Viewed collectively, they may reveal broader operational activity.
+
+---
+
+## Consistent Transaction Amounts
+
+Investigators often examine:
+
+- Similar deposit amounts
+- Repeated withdrawal patterns
+- Transaction structuring behavior
+- Amounts reused across multiple wallets
+
+Consistency can sometimes be more revealing than the transactions themselves.
+
+---
+
+## Wallet Clusters Interacting With The Same Services
+
+Wallet clustering analysis may identify:
+
+- Shared counterparties
+- Repeated infrastructure usage
+- Common transaction paths
+- Coordinated wallet activity
+
+The objective is not necessarily to identify a person immediately.
+
+The objective is to identify operational relationships.
+
+---
+
+## Exchange Exposure Following Mixer Activity
+
+One of the most important investigative opportunities often occurs when funds leave a mixer and interact with identifiable services.
+
+Exchange exposure may create opportunities involving:
+
+- KYC information
+- Account records
+- Financial records
+- Additional investigative leads
+
+Blockchain analysis often becomes significantly more powerful when on-chain activity intersects with identifiable infrastructure.
+
+---
+
+## Historical Reuse Of Operational Infrastructure
+
+Investigators frequently examine whether:
+
+- Wallets reuse previous infrastructure
+- Transaction patterns remain consistent over time
+- Services interact with the same counterparties repeatedly
+
+Historical consistency can sometimes reveal relationships that are not immediately visible.
+
+---
+
+# Why This Case Matters
+
+Public reporting indicates investigators combined blockchain analysis with additional evidence linking activity associated with Bitcoin Fog to Roman Sterlingov.
+
+The case ultimately resulted in conviction and a sentence of more than 12 years in federal prison.
+
+What makes the case particularly interesting is that the investigation appears to have relied heavily on identifying patterns rather than isolated suspicious transactions.
+
+Laundering tools do not eliminate evidence.
+
+They change the type of evidence investigators look for.
+
+---
+
+# Investigative Relevance
+
+The Bitcoin Fog investigation highlights an important principle in both AML and blockchain investigations:
+
+Investigators are often not searching for a single transaction that explains everything.
+
+They are searching for patterns.
+
+Viewed individually, transactions may appear fragmented and unrelated.
+
+Viewed collectively, they can reveal:
+
+- Operational infrastructure
+- Wallet relationships
+- Behavioral consistency
+- Exchange exposure
+- Investigative opportunities
+
+Many financial crime investigations appear to begin the same way:
+
+Not with a suspect.
+
+Not with a confession.
+
+But with transaction patterns that gradually stop looking random.
+
+---
+
+# Sources
+
+## U.S. Department of Justice
+
+https://www.justice.gov/usao-dc/pr/operator-bitcoin-fog-sentenced-more-12-years-prison-running-notorious-darknet
+
+## IRS Criminal Investigation
+
+https://www.irs.gov/compliance/criminal-investigation
+
+## Chainalysis
+
+https://www.chainalysis.com
+
+---
+
+# Disclaimer
+
+This analysis is based solely on publicly available information and is intended for educational and investigative methodology purposes only.
