@@ -1,0 +1,193 @@
+# Helix — Following the Trail Through a Bitcoin Mixing Service
+
+## Executive Summary
+
+This repository examines the Helix investigation and explores how investigators reportedly combined blockchain analysis, infrastructure records, and financial records to identify the operator of a cryptocurrency mixing service allegedly used to launder hundreds of millions of dollars in Bitcoin.
+
+The purpose of this analysis is to examine:
+
+- Cryptocurrency money laundering typologies
+- Bitcoin mixer investigations
+- Blockchain tracing methodologies
+- Wallet clustering
+- Infrastructure attribution
+- Financial intelligence analysis
+- Real-world identity attribution
+
+According to public reporting, investigators ultimately identified **Larry Dean Harmon** as the operator of Helix and connected the service to large-scale laundering activity involving darknet marketplaces.
+
+---
+
+# Background
+
+Helix was designed to make Bitcoin transactions harder to trace.
+
+Instead, the transactions reportedly became part of the evidence.
+
+Investigators began examining Bitcoin flows associated with Helix, a cryptocurrency mixing service that allegedly processed hundreds of millions of dollars in Bitcoin linked to darknet marketplaces.
+
+According to public reporting, investigators analyzed Bitcoin transactions moving through Helix and identified patterns connecting the service to darknet market activity.
+
+The blockchain activity reportedly became one component of a larger investigation that eventually identified Larry Dean Harmon as the operator.
+
+---
+
+# Investigative Question
+
+One of the most important questions in cryptocurrency money laundering investigations is:
+
+**How do investigators identify the operator of a service specifically designed to obscure transaction flows?**
+
+The Helix investigation suggests the answer is rarely found in a single transaction.
+
+It is found through consistency.
+
+---
+
+# Behavioral Patterns Investigators Examined
+
+Investigators did not look for a single suspicious transaction.
+
+They looked for consistency.
+
+Patterns investigators reportedly examined included:
+
+## Repeated Interaction With Known Darknet Market Infrastructure
+
+Investigators reportedly observed repeated interactions between Helix and known darknet marketplace activity.
+
+---
+
+## Bitcoin Deposits Flowing Into Mixer-Controlled Wallets
+
+Tracing reportedly identified Bitcoin entering wallets associated with the service.
+
+The individual transactions may have appeared unrelated.
+
+The broader pattern reportedly suggested otherwise.
+
+---
+
+## Transaction Timing Relationships
+
+Investigators examined how funds moved through the service and whether timing relationships revealed operational consistency.
+
+---
+
+## Wallet Clustering
+
+Wallet clustering reportedly helped investigators identify relationships between addresses and operational infrastructure.
+
+Viewed individually, wallets may appear disconnected.
+
+Viewed collectively, they can reveal broader networks.
+
+---
+
+## Fund Consolidation Activity
+
+Investigators reportedly analyzed how funds were aggregated and moved through the laundering process.
+
+---
+
+## Operational Links Between Services
+
+The investigation reportedly expanded beyond blockchain activity into infrastructure and operational relationships associated with the service.
+
+---
+
+# Simplified Attribution Chain
+
+```text
+Darknet Market Activity
+           │
+           ▼
+Helix Mixer
+           │
+           ▼
+Bitcoin Transaction Analysis
+           │
+           ▼
+Wallet Clustering
+           │
+           ▼
+Operational Infrastructure
+           │
+           ▼
+Financial Records
+           │
+           ▼
+Larry Dean Harmon
+```
+
+---
+
+# How Attribution Reportedly Developed
+
+Investigators combined blockchain analysis with additional evidence tied to the operation itself.
+
+The blockchain reportedly helped investigators understand how funds moved.
+
+Infrastructure records reportedly helped identify who controlled the service.
+
+Financial records reportedly helped connect the operation to a real person.
+
+Viewed individually, each source provided only part of the picture.
+
+Viewed collectively, they reportedly helped investigators connect a large-scale Bitcoin laundering operation to its operator.
+
+---
+
+# Why This Case Matters
+
+One detail that stands out is that the investigation reportedly did not depend on breaking Bitcoin's cryptography or uncovering a hidden vulnerability.
+
+It relied on connecting multiple sources of evidence:
+
+- Blockchain analysis
+- Wallet clustering
+- Operational infrastructure
+- Financial records
+- Traditional investigative work
+
+This illustrates an important principle in both AML and blockchain investigations:
+
+Complex investigations are often solved through evidence correlation rather than a single breakthrough.
+
+---
+
+# Investigative Takeaways
+
+Several observations stand out:
+
+- A mixer does not eliminate evidence.
+- Blockchain activity often serves as an investigative lead rather than a conclusion.
+- Wallet clustering remains one of the most valuable blockchain investigative techniques.
+- Infrastructure records can be just as important as transaction records.
+- Financial records often provide the bridge between blockchain activity and real-world identity.
+
+Many AML and blockchain investigations seem to begin the same way:
+
+Not with a suspect or a single transaction, but a second transaction, then a pattern, then enough evidence to identify the person behind it.
+
+The same lesson appears again and again across financial crime investigations:
+
+Laundering can complicate a trail, but it rarely erases it.
+
+---
+
+# Sources
+
+## U.S. Department of Justice
+
+:contentReference[oaicite:0]{index=0}
+
+## Financial Crimes Enforcement Network
+
+:contentReference[oaicite:1]{index=1}
+
+---
+
+# Disclaimer
+
+This analysis is based solely on publicly available information and is intended for educational and investigative methodology purposes only. No ownership attribution is claimed beyond information publicly reported by law enforcement agencies and official sources.
