@@ -1,0 +1,226 @@
+# Ronin Bridge — Following a Wallet to a Nation-State Threat Actor
+
+## Executive Summary
+
+This repository examines the blockchain tracing and attribution process that followed the Ronin Bridge exploit and explores how investigators reportedly connected on-chain activity to the North Korean state-sponsored Lazarus Group.
+
+The purpose of this analysis is to examine:
+
+- Blockchain tracing methodologies
+- Wallet clustering
+- Threat actor attribution
+- Sanctions investigations
+- Intelligence correlation
+- Exchange exposure
+- Cryptocurrency laundering techniques
+
+This case is particularly interesting because it demonstrates how investigators can move from a publicly visible wallet address to attribution of a nation-state threat actor through the combination of blockchain analysis, intelligence reporting, sanctions investigations, and law enforcement collaboration.
+
+---
+
+# Background
+
+The wallet did not have a name attached to it; at least not initially.
+
+Following the Ronin Bridge hack, investigators began tracing funds stolen from what was then one of the largest cryptocurrency thefts in history.
+
+One of the wallets publicly identified by OFAC and attributed to the Lazarus Group was:
+
+```text
+0x098B716B8Aaf21512996dC57EB0615e2383E2f96
+```
+
+The address was later added to the U.S. sanctions list and publicly associated with the Ronin Bridge exploit.
+
+Attribution did not come from a single transaction; it came from consistency.
+
+---
+
+# Investigative Question
+
+One of the most important questions in blockchain investigations is:
+
+**How do investigators move from a wallet address to attribution of a threat actor?**
+
+The Ronin investigation demonstrates that attribution rarely comes from a single transaction.
+
+It emerges through evidence correlation.
+
+---
+
+# Patterns Investigators Reportedly Identified
+
+Investigators reportedly followed the movement of stolen funds and identified patterns such as:
+
+## Movement From Wallets Associated With The Exploit
+
+Tracing reportedly began with funds known to be connected to the Ronin Bridge theft.
+
+---
+
+## Wallet Clustering Relationships
+
+Investigators reportedly analyzed relationships between wallets and identified clusters exhibiting common behavior.
+
+Viewed individually, a wallet may reveal little.
+
+Viewed collectively, wallet relationships can reveal operational infrastructure.
+
+---
+
+## Repeated Interaction With Known Lazarus Infrastructure
+
+Public reporting indicates investigators compared wallet activity against infrastructure previously associated with Lazarus operations.
+
+Consistency across multiple investigations reportedly became an important factor in attribution.
+
+---
+
+## Transfers Through Tornado Cash
+
+Investigators reportedly observed portions of the stolen funds moving through Tornado Cash.
+
+While mixers can complicate tracing efforts, they do not eliminate the ability to identify broader behavioral patterns.
+
+---
+
+## Exchange Exposure
+
+Investigators reportedly examined interactions with exchanges and other services as part of the broader attribution process.
+
+Exchange exposure often provides additional intelligence opportunities.
+
+---
+
+## Transaction Behavior Consistent With Previously Attributed Operations
+
+One of the most significant factors reportedly involved identifying behavior consistent with prior Lazarus operations.
+
+Patterns become increasingly meaningful when they appear repeatedly across unrelated investigations.
+
+---
+
+# Simplified Attribution Chain
+
+```text
+Ronin Bridge Exploit
+
+         │
+         ▼
+
+Sanctioned Wallet
+
+0x098B716B8Aaf21512996dC57EB0615e2383E2f96
+
+         │
+         ▼
+
+Wallet Clustering
+
+         │
+         ▼
+
+Tornado Cash Activity
+
+         │
+         ▼
+
+Exchange Exposure
+
+         │
+         ▼
+
+Intelligence Correlation
+
+         │
+         ▼
+
+Lazarus Group Attribution
+```
+
+---
+
+# How Attribution Reportedly Developed
+
+Investigators reportedly did not identify Lazarus because a wallet contained a person's name.
+
+They identified Lazarus by connecting multiple sources of evidence.
+
+Investigators reportedly combined:
+
+- Blockchain analysis
+- Wallet clustering
+- Historical Lazarus infrastructure
+- Exchange intelligence
+- Sanctions investigations
+- Law enforcement intelligence
+
+Viewed individually, each source provided only part of the picture.
+
+Viewed collectively, they reportedly created a strong enough evidentiary basis for public attribution by the FBI and U.S. Treasury.
+
+The blockchain did not reveal an identity; it revealed behavior.
+
+---
+
+# Why This Case Matters
+
+The attribution reportedly emerged when investigators compared that behavior against previously identified Lazarus operations and supporting intelligence.
+
+This highlights an important distinction in blockchain investigations:
+
+A wallet address is not necessarily evidence of identity.
+
+A wallet address is evidence of activity.
+
+Investigators must then determine whether that activity aligns with known actors, infrastructure, methodologies, or operational patterns.
+
+The Ronin case demonstrates how attribution can emerge from behavioral consistency across multiple independent sources of information.
+
+---
+
+# Investigative Takeaways
+
+Several observations stand out:
+
+- Attribution rarely comes from a single transaction.
+- Wallet clustering remains one of the most valuable blockchain investigative techniques.
+- Behavioral consistency can be more important than any individual transaction.
+- Intelligence correlation often provides the bridge between wallet activity and threat actor attribution.
+- Blockchain investigations frequently rely on multiple independent sources of evidence rather than a single breakthrough.
+
+Many blockchain investigations seem to begin the same way:
+
+Not with a suspect or a confession, but with transaction patterns that gradually stop looking accidental.
+
+The same lesson appears again and again across financial crime investigations:
+
+A wallet address is not an identity but an investigative lead.
+
+And sometimes enough leads connected together can reveal the actor behind an entire operation.
+
+---
+
+# Sources
+
+## U.S. Treasury OFAC
+
+:contentReference[oaicite:0]{index=0}
+
+## Elliptic
+
+:contentReference[oaicite:1]{index=1}
+
+## TRM Labs
+
+:contentReference[oaicite:2]{index=2}
+
+## FBI
+
+:contentReference[oaicite:3]{index=3}
+
+---
+
+# Disclaimer
+
+This analysis is based solely on publicly available information and official government reporting. Attribution references are derived from public OFAC sanctions actions, FBI statements, and related investigative reporting. This repository is intended for educational and investigative methodology purposes only.
