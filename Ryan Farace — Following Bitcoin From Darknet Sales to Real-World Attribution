@@ -1,0 +1,197 @@
+# Ryan Farace — Following Bitcoin From Darknet Sales to Real-World Attribution
+
+## Executive Summary
+
+This repository examines the Ryan Farace investigation and explores how investigators reportedly combined blockchain analysis, exchange records, and customer identification records to connect cryptocurrency proceeds from darknet drug sales to a specific individual.
+
+The purpose of this analysis is to examine:
+
+- Blockchain tracing methodologies
+- Cryptocurrency investigations
+- Exchange exposure
+- KYC intelligence
+- Financial attribution
+- Darknet marketplace investigations
+- Real-world identity attribution
+
+According to court records and public reporting, Ryan Farace allegedly sold prescription drugs through darknet marketplaces and received payment in Bitcoin. Investigators reportedly identified him by tracing cryptocurrency transactions and connecting them to exchange records and customer information.
+
+---
+
+# Background
+
+Ryan Farace did not become the target of a federal investigation because investigators found his name first.
+
+They found his name by following his Bitcoin.
+
+According to court records and public reporting, Farace allegedly sold prescription drugs through darknet marketplaces and received payment in Bitcoin.
+
+Investigators reportedly began by tracing cryptocurrency transactions associated with the operation.
+
+The Bitcoin eventually led to exchange accounts.
+
+The exchange accounts reportedly led to customer records.
+
+The customer records reportedly led to Ryan Farace.
+
+Investigators did not look for a single suspicious transaction.
+
+They looked for connections.
+
+---
+
+# Investigative Question
+
+One of the most important questions in blockchain investigations is:
+
+**How do investigators move from a wallet address to a real-world identity?**
+
+The Farace investigation provides a practical example of how blockchain analysis can intersect with exchange records and customer identification information.
+
+---
+
+# Patterns Investigators Reportedly Examined
+
+Patterns investigators reportedly examined included:
+
+## Bitcoin Payments Associated With Darknet Sales
+
+Investigators reportedly traced Bitcoin payments believed to be associated with darknet marketplace activity.
+
+---
+
+## Wallet Relationships
+
+Blockchain analysis reportedly identified relationships between wallets involved in receiving and moving funds.
+
+Viewed individually, wallets may appear unrelated.
+
+Viewed collectively, relationships begin to emerge.
+
+---
+
+## Transfers Into Exchange Accounts
+
+One of the most important developments reportedly occurred when Bitcoin moved into cryptocurrency exchanges.
+
+Exchange exposure frequently creates opportunities for attribution.
+
+---
+
+## Account Ownership Records
+
+Investigators reportedly obtained records associated with exchange accounts receiving funds linked to the activity.
+
+These records allegedly helped connect blockchain activity to identifiable individuals.
+
+---
+
+## Financial Activity Connected To Drug Proceeds
+
+Investigators reportedly examined how funds moved after entering exchange accounts and whether activity aligned with the suspected operation.
+
+---
+
+## Links Between Online Activity And Real-World Identity
+
+The investigation reportedly became significantly stronger once blockchain activity could be compared against customer records and identifying information.
+
+---
+
+# Simplified Attribution Chain
+
+```text
+Darknet Sales
+
+        │
+
+        ▼
+
+Bitcoin Wallets
+
+        │
+
+        ▼
+
+Exchange Accounts
+
+        │
+
+        ▼
+
+KYC Records
+
+        │
+
+        ▼
+
+Ryan Farace
+```
+
+---
+
+# How Attribution Reportedly Developed
+
+Investigators reportedly did not identify Farace through a single wallet; they identified him through control.
+
+The blockchain reportedly showed where the money moved.
+
+Exchange records reportedly helped identify who controlled the accounts receiving those funds.
+
+Viewed individually, each source provided only part of the picture.
+
+Viewed collectively, they reportedly helped investigators connect cryptocurrency proceeds to a specific individual.
+
+---
+
+# Why This Case Matters
+
+Many discussions surrounding cryptocurrency focus on whether transactions can be traced.
+
+This case highlights a different question:
+
+**Can investigators determine who controls the funds?**
+
+Blockchain analysis can reveal transaction flows.
+
+Exchange records can reveal account ownership.
+
+When combined, those sources can provide powerful attribution opportunities.
+
+---
+
+# Investigative Takeaways
+
+Several observations stand out:
+
+- A wallet address is not an identity.
+- Blockchain activity often serves as an investigative lead.
+- Exchange exposure remains one of the strongest attribution opportunities in cryptocurrency investigations.
+- KYC records can provide the bridge between blockchain activity and real-world identity.
+- Complex investigations are often solved through evidence correlation rather than a single breakthrough.
+
+Many blockchain investigations seem to begin the same way:
+
+Not with a suspect or a confession, but with financial relationships that keep pointing back to the same person.
+
+The same lesson appears again and again across financial crime investigations:
+
+Money can move through thousands of wallets, but ownership is much harder to hide.
+
+---
+
+# Sources
+
+## U.S. Department of Justice
+
+:contentReference[oaicite:0]{index=0}
+
+## Additional DOJ Background
+
+:contentReference[oaicite:1]{index=1}
+
+---
+
+# Disclaimer
+
+This analysis is based solely on publicly available court records and government reporting. It is intended for educational and investigative methodology purposes only and does not make ownership attributions beyond those contained in publicly available legal filings.
